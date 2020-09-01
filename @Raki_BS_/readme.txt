@@ -1,4 +1,4 @@
-@31b0a1の頼まれ物
+@Raki_BS_の頼まれ物
 
 TyranoScript｜ティラノスクリプト　Ver4.50（C）ShikemokuMK
 http://tyrano.jp
