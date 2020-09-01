@@ -9,6 +9,8 @@
 [chara_new  name="ロッジ"  jname="ロッジ"  storage="chara/4/1570226649001.png"  ]
 ;モブ
 [chara_new  name="モブ"  jname="モブ"  storage="chara/5/https___i.pinimg.com_originals_fe_ef_ae_feefaea94e8ce949b8f36e47e564c208.png"  ]
+;キアラ
+[chara_new  name="キアラ"  jname="キアラ"  storage="chara/6/1570249787001.png"  ]
 
 ;=========変数宣言部分 
 [iscript] 
