@@ -6,6 +6,8 @@
 
 [tb_keyconfig  flag="0"  ]
 [tb_hide_message_window  ]
+*title1
+
 [bg  storage="Egv72YYVgAEyFtD.jpg"  ]
 [tb_ptext_show  x="81"  y="142"  size="65"  color="0xc42404"  time="1000"  text="BlackRose_from_BS"  anim="false"  face="serif,'游明朝'"  edge="undefined"  shadow="0x423f3f"  ]
 *title

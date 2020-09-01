@@ -1,7 +1,5 @@
-[_tb_system_call storage=system/_preview.ks ]
+[_tb_system_call storage=system/_eleven.ks]
 
-[mask time=10]
-[mask_off time=10]
 [cm  ]
 *eleven_root
 
@@ -66,7 +64,7 @@ endは三種類で、時空としてはrabbitと決別してからルミア来�
 おはようございます、夏 紫萱(シァ・ズーシュェン)さん。[p]
 ワタクシ、大手IT企業〇〇〇社長の一人娘、Aと申しますの。仲良くしましょうね。[p]
 #Eleven
-…こちらこそよろしくね、Aさん！[p]
+…こちらこそよろしくお願いします、Aさん！[p]
 #あなた
 (うわっ、なんかいかにもお金持ちのお嬢様って人が割り込んできた)[p]
 (Elevenちゃん笑顔で対応してるけどどこかぎこちない…)[p]
@@ -94,7 +92,7 @@ endは三種類で、時空としてはrabbitと決別してからルミア来�
 Elevenちゃん、一緒にトイレいかない？ジュース飲み過ぎちゃったみたい…[p]
 #Eleven
 え、うん、いこっか！[p]
-ごめんね、私もちょっとお花を摘みに…[p]
+ごめんね、わたしもちょっとお花を摘みに…[p]
 #モブA
 あら…いってらっしゃい[p]
 [_tb_end_text]
@@ -142,7 +140,7 @@ Elevenちゃん、一緒にトイレいかない？ジュース飲み過ぎち�
 朝ごはん食べ逃しててお腹すいちゃった…[p]
 Elevenちゃん購買にまたつれていってくれないかな？[p]
 #Eleven
-え…うん！いいよ！私もお腹ちょっとすいちゃった…[p]
+え…うん！いいよ！わたしもお腹ちょっとすいちゃった…[p]
 朝ごはん少なかったかな？[p]
 てことでごめんね、ちょっと購買いってくる！[p]
 [_tb_end_text]
@@ -183,7 +181,7 @@ Elevenちゃん購買にまたつれていってくれないかな？[p]
 [chara_show  name="Eleven"  time="1000"  wait="true"  storage="chara/2/1555633031001.png"  width="383"  height="874"  left="293"  top="111"  reflect="false"  ]
 [tb_start_tyrano_code]
 #Eleven
-私もヨウティヤオひとつ！
+わたしもヨウティヤオひとつ！
 [emb exp="f.name"]ちゃんもヨウティヤオ好きなの？[p]
 [_tb_end_tyrano_code]
 
@@ -233,7 +231,7 @@ Elevenちゃん購買にまたつれていってくれないかな？[p]
 
 [tb_start_tyrano_code]
 #Eleven
-…[emb exp="f.name"]ちゃんならちゃんと私を見てくれるかな…。[p]
+…[emb exp="f.name"]ちゃんならちゃんとわたしを見てくれるかな…。[p]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -299,4 +297,5 @@ Elevenちゃんには悪いけど、ちょっと調べてみようかな…[p]
 三日目：すれ違い(Elevenルートに続く)[p]
 [_tb_end_text]
 
+[jump  storage="scene1.ks"  target="*sime"  ]
 [s  ]

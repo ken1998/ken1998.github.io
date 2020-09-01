@@ -1,5 +1,3 @@
-@Raki_BS_の頼まれ物
-
 TyranoScript｜ティラノスクリプト　Ver4.50（C）ShikemokuMK
 http://tyrano.jp
 
