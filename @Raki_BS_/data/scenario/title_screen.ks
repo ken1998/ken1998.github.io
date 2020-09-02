@@ -9,7 +9,8 @@
 *title1
 
 [bg  storage="Egv72YYVgAEyFtD.jpg"  ]
-[tb_ptext_show  x="81"  y="142"  size="65"  color="0xc42404"  time="1000"  text="BlackRose_from_BS"  anim="false"  face="serif,'游明朝'"  edge="undefined"  shadow="0x423f3f"  ]
+[tb_ptext_show  x="39"  y="129"  size="65"  color="0xc42404"  time="1000"  text="BlackRose_from_BS"  anim="false"  face="serif,'游明朝'"  edge="undefined"  shadow="0x423f3f"  ]
+[tb_ptext_show  x="482"  y="210"  size="30"  color="0xf596d5"  time="1000"  text="ver.Eleven"  anim="false"  face="serif,'游明朝'"  edge="undefined"  shadow="undefined"  ]
 *title
 
 [glink  color="black"  text="はじめから"  x="600"  y="370"  size="24"  target="*start"  ]

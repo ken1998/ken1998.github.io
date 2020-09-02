@@ -1,5 +1,3 @@
-[preload  storage="./data/bgimage/room.jpg"  ]
-[preload  storage="./data/bgimage/rouka.jpg"  ]
 [preload  storage="./data/bgimage/Egv72YYVgAEyFtD.jpg"  ]
-[preload  storage="./data/bgimage/29806579_p1_master1200.jpg"  ]
+[preload  storage="./data/bgimage/room.jpg"  ]
 [return] 

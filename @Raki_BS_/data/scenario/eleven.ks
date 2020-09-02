@@ -297,5 +297,5 @@ Elevenちゃんには悪いけど、ちょっと調べてみようかな…[p]
 三日目：すれ違い(Elevenルートに続く)[p]
 [_tb_end_text]
 
-[jump  storage="scene1.ks"  target="*sime"  ]
+[jump  storage="eleven_2.ks"  target="*eleven2"  ]
 [s  ]
