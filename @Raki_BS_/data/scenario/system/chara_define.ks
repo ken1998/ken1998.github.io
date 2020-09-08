@@ -16,4 +16,5 @@
 [iscript] 
 f['name']=''; 
 f['eleven_point']=50; 
+f['adriana_point']=50; 
 [endscript] 

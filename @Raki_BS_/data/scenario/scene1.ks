@@ -5,7 +5,7 @@
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 ※注意[p]
-これは一個人がファン活動の一環として制作した非公式ADVかつお試し版です。[p]
+これは一個人がファン活動の一環として制作した非公式ADVです。[p]
 規約の範囲で制作しており、キャラ及び一部の背景画像の権利は全て©Nimbleneuronに帰属します。[p]
 キャラの解釈違い等多々あると思われますし、そもそもストーリーの都合で年齢やその他を改変しております。[p]
 また制作者は登場キャラのアバターを所持していない上にアグライアパス５と６を閲覧完了できていません、齟齬がある場合があります。[p]
@@ -318,21 +318,22 @@
 #
 ～１日目：プロローグ(完)～[p]
 
-現在はElevenルートしか制作されてません。[p]
-このままElevenルートに進みます。[p]
+現在はElevenルートとアドリアナルートの２ルートです[p]
 [_tb_end_text]
 
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
-[bg  time="1000"  method="crossfade"  storage="room.jpg"  ]
+[bg  time="1000"  method="crossfade"  storage="Egv72YYVgAEyFtD.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
-[jump  storage="eleven.ks"  target="*eleven_root"  ]
+[glink  color="pink"  storage="eleven.ks"  size="20"  target="*eleven_root"  text="同級生Elevenルート"  x="362"  y="104"  width=""  height=""  _clickable_img=""  ]
+[glink  color="red"  storage="adriana.ks"  size="20"  target="*adriana1"  text="放火魔三年生アドリアナルート"  x="323"  y="232"  width=""  height=""  _clickable_img=""  ]
+[s  ]
 *sime
 
 [tb_start_text mode=1 ]
 #
 ※以下制作者のボヤキとか諸連絡なのでここはスキップしていいですが、よかったらお付き合いください。[p]
 制作者のモチベ次第で今後続きとかスチルとかあるかもしれません、モチベ次第です。[p]
-誰の分岐がほしいかツイッター(＠Raki_BS_)にアンケートあるのでよかったら投票してください。次はアドリアナ編制作予定です。[p]
+誰の分岐がほしいかツイッター(＠Raki_BS_)にアンケートあるのでよかったら投票してください。次はロッジ編制作予定です。[p]
 (もしもいたら)スチル描いてくれる人とか語彙力/zeroでも熱烈な応援してくれると嬉しいしめちゃくちゃやる気だして完成させるのでよろしくお願いします。[p]
 クレジット的なもの[p]
 素材・スクリプトソフト：ティラノビルダー[p]

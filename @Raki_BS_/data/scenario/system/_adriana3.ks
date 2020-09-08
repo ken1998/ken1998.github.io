@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/Egv72YYVgAEyFtD.jpg"  ]
+[preload  storage="./data/bgimage/souko19201080-12.jpg"  ]
+[preload  storage="./data/bgimage/29806579_p1_master1200.jpg"  ]
+[preload  storage="./data/bgimage/daWDEec4.jpg"  ]
+[return]
